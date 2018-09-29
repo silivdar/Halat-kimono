@@ -1,0 +1,135 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28.09.2018, 21:43:10
+    Author     : dariasilivonenko
+*/
+
+body {
+   background-color: #ffe6e6; 
+}
+
+#page {
+    background-color: white;
+    width: 95%;
+    height:95%;
+    margin: 0 auto 0 auto;
+}
+
+.e-shop {
+    width: 95%;
+    height:95%;
+    margin: 0 auto 0 auto;
+    background-color: white;
+}
+
+.title-picture {
+    width: 100%;
+    padding: 2% 0 0 0;
+}
+
+ #tlt-picture {
+    max-width: 100%;
+}
+
+.log-and-tit {
+    width: 100%;
+    margin-bottom: 3%;
+}
+
+.logo-pc {
+    width: 10%;
+    float: left;
+    margin-left: 25%;
+}
+
+#logo {
+    max-width: 100%;
+    position: relative;
+    border: 2px solid black;
+}
+
+.title h1{
+    font: normal 2.825em/0.9 "Didot", "Arial Narrow", italic; 
+    text-transform: uppercase;
+    color: #4d0026;
+    text-align: left;
+    padding-top: 3.5%;
+}
+
+.title h3{
+    font: normal 1.325em/0.9 "Didot", italic; 
+    color: #4d0026;
+    text-align: left;
+    padding-left: 2%;
+}
+
+.title {
+    padding: 0 0 0.5% 0;
+    position: relative;
+    margin-left: 37%;
+}
+
+.nav-bar {
+    width: 100%;
+    background-color: #ff99bb;
+    margin: 0 auto 1% auto;
+}
+
+.nav-bar ul {
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-bar li {
+    float: left; 
+    width: 25%;
+}
+
+.nav-bar li a {
+    display: block;
+    color: white;
+    text-align: center;
+    text-decoration: none;
+    padding: 4% 4%;
+    text-transform: uppercase;
+}
+
+.nav-bar li a:hover {
+    background-color: #ff6699;
+}
+
+.main-content {
+    background-color: white;
+    width: 100%;
+    margin-bottom: 80%;
+}
+
+.context {
+    float: left;
+    width: 61%;
+    border: 2px solid pink;
+}
+
+.log-in {
+    float: right;
+    width: 37.7%;
+    border: 2px solid pink;
+}
+
+.log-in li {
+    margin: 0 2% 2% 2%;
+    padding: 2% 2% 0 2%;
+}
+
+.log-in ul {
+    overflow: hidden;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
